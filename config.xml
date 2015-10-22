@@ -42,5 +42,4 @@
     <gap:plugin name="org.apache.cordova.splashscreen"/>
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.adobe.plugins.gaplugin"/>
-    <gap:plugin name="com.phonegap.plugins.childbrowser" />
 </widget>

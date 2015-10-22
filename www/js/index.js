@@ -8,7 +8,7 @@ var raio = 0;
 
 function onDeviceReady () {
     //followPosition ();
-    
+
     gaPlugin = window.plugins.gaPlugin;
     
     if (gaPlugin) {
